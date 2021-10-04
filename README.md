@@ -2,6 +2,8 @@
 
 IRIS species classification API and web-page with FLask, sklearn, numpy and HTML/CSS.
 
+The web-app can be found at ```https://iris-classification-flask.herokuapp.com/```
+
 ## Web-page preview
 1. Adding inputs
 ![Image 1](/img/Screenshot699.png)
