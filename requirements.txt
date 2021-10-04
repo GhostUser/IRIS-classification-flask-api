@@ -4,3 +4,4 @@ sklearn
 numpy
 pandas
 requests
+jinja2
